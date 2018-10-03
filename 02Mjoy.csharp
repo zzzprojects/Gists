@@ -1,4 +1,4 @@
-// @nuget: EntityFramework
+That's an update// @nuget: EntityFramework
 // @nuget: EntityFramework.SqlServerCompact
 // @nuget: Microsoft.SqlServer.Compact
 // @nuget: Z.EntityFramework.Extensions
