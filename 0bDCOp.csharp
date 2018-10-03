@@ -1,0 +1,27 @@
+using System;
+using System.Linq.Expressions;
+using System.Collections;
+using System.Collections.Generic;
+using System.Reflection;
+					
+public class Program
+{
+	public static void Main()
+	{
+        Console.WriteLine("****************** C# Equivalent Output **************************\n\n");
+
+        int sum = 3 + 6;
+        Console.WriteLine(sum);
+
+        Console.WriteLine("\n\n***************** Expression Tree Output **************************\n\n");
+
+        Expression sumExpr = Expression.Add(
+            Expression.Constant(3),
+            Expression.Constant(6)
+        );
+      
+        Console.WriteLine(Expression.Lambda<Func<int>>(sumExpr).Compile()());
+
+	}
+
+}
