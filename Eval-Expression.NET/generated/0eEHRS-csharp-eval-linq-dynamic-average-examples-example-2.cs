@@ -1,3 +1,4 @@
+// Description: C# Eval - linq-dynamic-average-examples - Example 2
 // @nuget: Z.Expressions.Eval
 
 using System;
