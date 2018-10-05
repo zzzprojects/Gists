@@ -1,4 +1,6 @@
-// Description: C# Eval - linq-dynamic-average-examples - Example 2
+Description: C# Eval - linq-dynamic-average-examples - Example 2
+Website: https://eval-expression.net/
+Run: https://dotnetfiddle.net/0eEHRS
 // @nuget: Z.Expressions.Eval
 
 using System;
