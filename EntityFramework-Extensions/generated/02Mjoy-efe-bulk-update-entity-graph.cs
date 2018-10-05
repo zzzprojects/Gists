@@ -1,3 +1,4 @@
+// Description: EFE - Bulk-Update - Entity Graph
 // @nuget: EntityFramework
 // @nuget: EntityFramework.SqlServerCompact
 // @nuget: Microsoft.SqlServer.Compact
