@@ -1,6 +1,6 @@
-Description: EFE - Bulk-Update - Entity Graph
-Website: https://entityframework-extensions.net/
-Run: https://dotnetfiddle.net/02Mjoy
+// Description: EFE - Bulk-Update - Entity Graph
+// Website: https://entityframework-extensions.net/
+// Run: https://dotnetfiddle.net/02Mjoy
 // @nuget: EntityFramework
 // @nuget: EntityFramework.SqlServerCompact
 // @nuget: Microsoft.SqlServer.Compact
