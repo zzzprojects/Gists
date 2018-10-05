@@ -1,4 +1,6 @@
-// Description: C# Eval - compile-execute - Example 2
+Description: C# Eval - compile-execute - Example 2
+Website: https://eval-expression.net/
+Run: https://dotnetfiddle.net/00YSGK
 // @nuget: Z.Expressions.Eval
 
 using System;
